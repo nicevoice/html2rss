@@ -17,6 +17,7 @@
 
 ## step4 ##
 make sure your posts dir like below:
+
     -blog/
         |--- vimwiki /
         |--- vimwiki_html /
