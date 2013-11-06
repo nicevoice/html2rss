@@ -15,5 +15,29 @@
     }
 
 
+## step4 ##
+make sure your posts dir like below:
+    -blog/
+        |--- vimwiki /
+        |--- vimwiki_html /
+            |--- static /
+                |--- css /
+                |--- imgs /
+                |--- js /
+            |--- posts /
+                |--- 2010 /
+                    |--- 10 /
+                        |--- 14 /
+                            |--- hello-world.html
+                    |--- 11 /
+                        |--- 10 /
+                            |--- hello-world.html
+                            |--- hello-node.html
+            |--- index.html
+            |--- favicon.ico
+            |--- rss.xml
+        |--- vimwiki_template /
+
+
 ## step3 ##
     node app
